@@ -22,4 +22,4 @@
   "logoutTxt": "Disconnecting from UW-PRX01",
   "party": false,
   "runTxt": "UW-PRX01"
-}];
+}]
