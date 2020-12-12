@@ -1,2 +1,2 @@
-2.0.0c
-https://www.google.com/
+2.1.2c
+https://github.com/TenDRILLL/randomwebsite/raw/main/nvg-releases/2.1.2c/nervegear.exe
