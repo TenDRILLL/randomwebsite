@@ -1,25 +1,25 @@
 [{
-  gameName: "sao",
-  name: "Sword Art Online",
-  loadTxt: "loading sao.nvg",
-  id: 1337,
-  logoutTxt: "Disconnecting from SAO-SRV01",
-  party: false,
-  runTxt: "SAO-SRV01"
+  "gameName": "sao",
+  "name": "Sword Art Online",
+  "loadTxt": "loading sao.nvg",
+  "id": 1337,
+  "logoutTxt": "Disconnecting from SAO-SRV01",
+  "party": false,
+  "runTxt": "SAO-SRV01"
 },{
-  gameName: "ggo",
-  name: "Gun Gale Online",
-  loadTxt: "loading ggo.nvg",
-  id: 1506,
-  logoutTxt: "Disconnecting from GGO-SRV04",
-  party: false,
-  runTxt: "GGO-SRV04"
+  "gameName": "ggo",
+  "name": "Gun Gale Online",
+  "loadTxt": "loading ggo.nvg",
+  "id": 1506,
+  "logoutTxt": "Disconnecting from GGO-SRV04",
+  "party": false,
+  "runTxt": "GGO-SRV04"
 },{
-  gameName: "alice",
-  name: "Underworld",
-  loadTxt: "loading uw.nvg",
-  id: 2536,
-  logoutTxt: "Disconnecting from UW-PRX01",
-  party: false,
-  runTxt: "UW-PRX01"
+  "gameName": "alice",
+  "name": "Underworld",
+  "loadTxt": "loading uw.nvg",
+  "id": 2536,
+  "logoutTxt": "Disconnecting from UW-PRX01",
+  "party": false,
+  "runTxt": "UW-PRX01"
 }];
