@@ -15,6 +15,14 @@
   "party": false,
   "runTxt": "GGO-SRV04"
 },{
+  "gameName": "alo",
+  "name": "ALfheim Online",
+  "loadTxt": "loading alo.nvg",
+  "id": 1221,
+  "logoutTxt": "Disconnecting from ALO-SRV02",
+  "party": false,
+  "runTxt": "ALO-SRV02"
+},{
   "gameName": "alice",
   "name": "Underworld",
   "loadTxt": "loading uw.nvg",
